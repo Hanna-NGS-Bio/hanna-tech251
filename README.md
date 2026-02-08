@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hanna!
 
-<h2>👨‍💻 Bioinformatic Experience (Foundational):</h2>
+<h2>👨‍💻 Bioinformatic Experience Level - Foundational:</h2>
 
 - <b> R and R studio for differential expression analysis (using DESeq2 Package)</b>
   - Data normalization and filtering of lowly expressed genes
