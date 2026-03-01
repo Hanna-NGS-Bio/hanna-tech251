@@ -18,7 +18,7 @@
 
 - 🔭 I have been working on basic machine learning using small gene count data
 - 🌱 I’m currently learning Python at a basic level
-- ⚡ I am primarily a lab researcher (both in academia and industry) who wants to keep up with the world of data ✨
+- ⚡ I am a lab researcher (both in academia and industry) who wants to keep up with the world of data ✨
 
 
 <!--
