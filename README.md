@@ -16,7 +16,7 @@
 
 <h2>More From Me</h2>
 
-- 🔭 I have been working on basic machine learning using small gene count data
+- 🔭 I've been working on basic machine learning using small gene count data
 - 🌱 I’m currently learning Python at a basic level
 - ⚡ I am a lab researcher who wants to keep up with the world of data ✨
 
